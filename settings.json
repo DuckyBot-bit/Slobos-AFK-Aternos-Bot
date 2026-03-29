@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "NerdyAstro.aternos.me",
+    "port": 53895,
     "version": "",
     "try-creative": false
   },
